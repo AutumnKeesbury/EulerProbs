@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/autumn/Desktop/Euler_Probs/cpp/prob853/bin/program'
+relocations:     []
+...
